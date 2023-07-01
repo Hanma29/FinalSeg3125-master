@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.70b2a4e4.css",
+    "main.js": "/react-gh-pages/static/js/main.d6e8f114.js",
+    "static/js/787.afb1e03c.chunk.js": "/react-gh-pages/static/js/787.afb1e03c.chunk.js",
+    "static/media/Shootingimage.jpg": "/react-gh-pages/static/media/Shootingimage.4a091fd7e48ff8b31e40.jpg",
+    "static/media/image 1.jpg": "/react-gh-pages/static/media/image 1.8717e864a5bfbb8c9e7b.jpg",
+    "static/media/Rebound.jpg": "/react-gh-pages/static/media/Rebound.1e9f8f6623dbed5f73da.jpg",
+    "static/media/Dribbling.jpg": "/react-gh-pages/static/media/Dribbling.2d6bb3948c56e836d8ac.jpg",
+    "static/media/Defending.jpg": "/react-gh-pages/static/media/Defending.6a49bf879d06b7e536d4.jpg",
+    "static/media/passing.jpg": "/react-gh-pages/static/media/passing.860649a9763ed488a4a8.jpg",
+    "static/media/knowledge.jpg": "/react-gh-pages/static/media/knowledge.0f92073871a2400abb31.jpg",
+    "static/media/Canada.png": "/react-gh-pages/static/media/Canada.ed142f78977202558740.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.70b2a4e4.css.map": "/react-gh-pages/static/css/main.70b2a4e4.css.map",
+    "main.d6e8f114.js.map": "/react-gh-pages/static/js/main.d6e8f114.js.map",
+    "787.afb1e03c.chunk.js.map": "/react-gh-pages/static/js/787.afb1e03c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70b2a4e4.css",
+    "static/js/main.d6e8f114.js"
+  ]
+}
