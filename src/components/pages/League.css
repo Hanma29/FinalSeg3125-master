@@ -1,0 +1,28 @@
+
+
+.row{
+    margin: left 50px;
+    margin: right 50px;
+}
+
+.col{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+
+
+
+.second{
+    padding-left: 18%;
+    width: 115%;
+}
+
+.BookLeague{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 20px;
+    white-space: nowrap;
+    font-size: 50px;
+}
