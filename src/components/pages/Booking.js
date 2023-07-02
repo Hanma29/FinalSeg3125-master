@@ -27,7 +27,7 @@ export function Booking(){
                 <Alert show={show} variant="success">
                     <Alert.Heading>Confirmed</Alert.Heading>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui eos saepe sapiente perferendis, harum ut nesciunt in amet vero consequuntur officiis vel. Blanditiis deserunt distinctio cum, quisquam consequatur eaque nihil.
+                        You have succefully booked a reservation!
                     </p>
                     <hr/>
                     <div className="d-flex justify-content-end">
