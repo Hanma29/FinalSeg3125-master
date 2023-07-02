@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FinalSeg3125-master/static/css/main.d3987197.css",
-    "main.js": "/FinalSeg3125-master/static/js/main.fc0666ea.js",
+    "main.js": "/FinalSeg3125-master/static/js/main.4f1a924b.js",
     "static/js/787.afb1e03c.chunk.js": "/FinalSeg3125-master/static/js/787.afb1e03c.chunk.js",
     "static/media/Shootingimage.jpg": "/FinalSeg3125-master/static/media/Shootingimage.4a091fd7e48ff8b31e40.jpg",
     "static/media/image 1.jpg": "/FinalSeg3125-master/static/media/image 1.8717e864a5bfbb8c9e7b.jpg",
@@ -13,11 +13,11 @@
     "static/media/Canada.png": "/FinalSeg3125-master/static/media/Canada.ed142f78977202558740.png",
     "index.html": "/FinalSeg3125-master/index.html",
     "main.d3987197.css.map": "/FinalSeg3125-master/static/css/main.d3987197.css.map",
-    "main.fc0666ea.js.map": "/FinalSeg3125-master/static/js/main.fc0666ea.js.map",
+    "main.4f1a924b.js.map": "/FinalSeg3125-master/static/js/main.4f1a924b.js.map",
     "787.afb1e03c.chunk.js.map": "/FinalSeg3125-master/static/js/787.afb1e03c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3987197.css",
-    "static/js/main.fc0666ea.js"
+    "static/js/main.4f1a924b.js"
   ]
 }
