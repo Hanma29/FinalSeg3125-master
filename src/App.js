@@ -24,6 +24,8 @@ function App() {
       <Route path='/Support' element={<Support/>}></Route>
       <Route path='/Booking' element={<Booking/>}></Route>
       <Route path='/HomeFr' element={<HomeFr/>}></Route>
+
+      
     </Routes>
   </Container>
   </>

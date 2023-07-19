@@ -92,7 +92,7 @@ export function Booking(){
                                     <option value="3">Defence</option>
                                     <option value="4">Dribbling</option>
                                     <option value="5">Passing</option>
-                                    <option value="6">Basketball Knowledge</option>
+                                    <option value="6">General consultation</option>
 
 
                                     
