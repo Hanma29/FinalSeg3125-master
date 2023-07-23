@@ -65,3 +65,9 @@
  *
  * @license MIT
  */
+
+/**!
+* tippy.js v5.2.1
+* (c) 2017-2020 atomiks
+* MIT License
+*/
